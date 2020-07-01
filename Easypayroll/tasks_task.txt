@@ -1,0 +1,22 @@
+1) Invoice Search Loading
+
+2) Job Time == Done
+3) Today Date and Time == Done
+4) Break Time Calculate == Done
+5) Active job day only one. If stop active job, can create
+6) Quick job -> Active job -> Stop and Create one more active job duplicate automatic
+	Quick Job Srat time = Active Stop Time
+	Quick Job Stop Time = Active duplicate Start  time
+
+
+Changes at 27-06-2020
+
+1) Invoice Search Loading
+
+2) Job Time == Done
+3) Today Date and Time == Done
+4) Break Time Calculate == Done
+5) Active job day only one. If stop active job, can create
+6) Quick job -> Active job -> Stop and Create one more active job duplicate automatic
+	Quick Job Srat time = Active Stop Time
+	Quick Job Stop Time = Active duplicate Start  time
