@@ -55,6 +55,8 @@ class AmlController extends Controller {
 	 */
 	public function aml_system()
 	{
+		echo 'skdskdhjsd';
+		exit;
 		$client = DB::table('cm_clients')->select('client_id', 'firstname', 'surname', 'company', 'status', 'active', 'id')->orderBy('id','asc')->get();
 		
 		$class = DB::table('cm_class')->where('status', 0)->get();	

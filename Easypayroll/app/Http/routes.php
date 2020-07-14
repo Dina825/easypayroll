@@ -28,6 +28,9 @@ Route::get('/', 'user\UserauthenticateController@login');
 
 
 
+
+
+
 Route::get('home', 'user\UserauthenticateController@login');
 
 

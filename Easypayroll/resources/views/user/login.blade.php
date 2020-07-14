@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Easypayroll - Tasks</title>
+<title>Easypayroll - Taskssss</title>
 <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 <script type="text/javascript" src="assets/js/jquery-1.11.2.min.js"></script>
 <link href="<?php echo URL::to('assets/css/bootstrap-theme.min.css') ?>" rel="stylesheet" type="text/css" />
